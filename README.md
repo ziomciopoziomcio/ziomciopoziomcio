@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jędrek</h1>
 <h3 align="center">an IT student</h3>
 
-- 🔭 I’m currently working on [Smart University Scheduler]([https://github.com/ziomciopoziomcio/snake_ai](https://github.com/ziomciopoziomcio/Smart-University-Scheduler))
+- 🔭 I’m currently working on [Smart University Scheduler](https://github.com/ziomciopoziomcio/snake_ai](https://github.com/ziomciopoziomcio/Smart-University-Scheduler))
 
 - 🌱 I’m currently learning at **Lodz University of Technology**
 
